@@ -74,6 +74,7 @@ body{
     border-radius: 50%;
     position:relative ;
     background-color: chartreuse;
+	margin:0 auto;
 }
 .block::after{
     content: '';
