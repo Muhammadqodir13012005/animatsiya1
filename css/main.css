@@ -63,6 +63,9 @@
         border: 3px solid red;
     }
 }
+body{
+	background-color:grey;
+}
 .block{
     margin-top: 100px;
     width: 100px;
@@ -70,7 +73,7 @@
     animation: yurak 4s ease-in-out 2s infinite alternate ;  
     border-radius: 50%;
     position:relative ;
-    background-color: mediumblue;
+    background-color: chatrauce;
 }
 .block::after{
     content: '';
